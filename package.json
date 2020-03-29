@@ -1,0 +1,19 @@
+{
+  "name": "darksky",
+  "version": "1.0.0",
+  "description": "The weather App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wimpex18/DarkSky.git"
+  },
+  "author": "Sergey Zinin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wimpex18/DarkSky/issues"
+  },
+  "homepage": "https://github.com/wimpex18/DarkSky#readme"
+}
